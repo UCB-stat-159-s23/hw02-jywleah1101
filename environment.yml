@@ -1,0 +1,4 @@
+name: ligo
+dependencies:
+  - python=3.8.6
+  - tqdm=4.64.1
