@@ -7,7 +7,7 @@ dependencies:
   - ipykernel
   - decorator==5.1
   - numpy==1.23
-  - matplotlib==3.6
+  - matplotlib==3.7
   - scipy==1.10
   - h5py==3.7
 prefix: /home/jovyan/envs/ligo
