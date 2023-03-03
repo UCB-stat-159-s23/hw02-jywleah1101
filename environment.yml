@@ -5,12 +5,9 @@ channels:
 dependencies:
   - python=3.9
   - ipykernel
+  - decorator==5.1
   - numpy==1.23
+  - matplotlib==3.6
+  - scipy==1.10
   - h5py==3.7
-  - json5==0.9
-  - jsonschema==4.4
-  - python-fastjsonschema==2.15
-  - python-json-logger==2.0
-  - matplotlib==3.5
-  - scipy==1.8
 prefix: /home/jovyan/envs/ligo
